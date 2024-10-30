@@ -1,6 +1,4 @@
-Here's a `README.md` for the "Asteroid Smasher" project:
 
----
 
 # Asteroid Smasher
 
