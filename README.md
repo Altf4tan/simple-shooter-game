@@ -72,7 +72,7 @@ Each asteroid destroyed adds to your score. The game ends when all lives are los
 
 ## Credits
 
-- **Code**: Developed by [Your Name]
+- **Code**: Developed by Altan Basoglu
 - **Assets**: Graphics by [Kenney.nl](https://kenney.nl/), sound effects provided by the Arcade library.
 
 ---
