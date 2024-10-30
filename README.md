@@ -75,6 +75,3 @@ Each asteroid destroyed adds to your score. The game ends when all lives are los
 - **Code**: Developed by Altan Basoglu
 - **Assets**: Graphics by [Kenney.nl](https://kenney.nl/), sound effects provided by the Arcade library.
 
----
-
-This `README.md` file provides an overview, installation instructions, and controls for the game. Make sure to replace `[Your Name]` and `https://github.com/yourusername/Asteroid-Smasher.git` with your actual details.
